@@ -2,6 +2,7 @@
 codes for batch B 
 #code no.3 matrix operations
 
+
     def matrix_input(rows, cols):
         matrix = []
         print("Enter {rows}x{cols} matrix:")
